@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=VIN# Pin=Q6-3
+Removed Pin From Net: NetName=VIN Pin=Q7-3
+Removed Pin From Net: NetName=EN_CO_2 Pin=R11-2
+Removed Pin From Net: NetName=EN_CO_1 Pin=R12-2
+Removed Member From Class: ClassName=U_LED_POWER 2 Member=C190
+Removed Member From Class: ClassName=U_LED_POWER 2 Member=L14
+Removed Member From Class: ClassName=U_LED_POWER Member=Q6
+Removed Member From Class: ClassName=U_LED_POWER Member=Q7
+Removed Member From Class: ClassName=U_LED_POWER Member=R11
+Removed Member From Class: ClassName=U_LED_POWER Member=R12
+Change component parameters: Designator = "L6"; Footprint = "HCB1005MF-100T25"; UniqueID = "\MUNXVJTB\MOEKIHME\IKCRUKZS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "2.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR) (Max)"; Value = "50mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TAI-TECH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L7"; Footprint = "HCB1005MF-100T25"; UniqueID = "\MUNXVJTB\MOEKIHME\FQZPHJOM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "2.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR) (Max)"; Value = "50mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TAI-TECH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C191-1
+Added Pin To Net: NetName=GND Pin=Q12-2
+Added Pin To Net: NetName=EN_CO_1 Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=VIN# Pin=U1-9
+Added Pin To Net: NetName=VIN Pin=U2-9
+Change Net Name : Old Net Name=VIN# New Net Name=V_LED_2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=Q12-3
+Added Pin To Net: NetName=NetD5_1 Pin=R33-1
+Added Net: Name=NetD5_1
+Added Net: Name=NetD5a_1
+Added Pin To Net: NetName=NetQ12_1 Pin=Q12-1
+Added Pin To Net: NetName=NetQ12_1 Pin=R32-1
+Added Net: Name=NetQ12_1
+Added Net: Name=NetQ13a_1
+Added Pin To Net: NetName=V_C1 Pin=D5-2
+Added Pin To Net: NetName=V_C1 Pin=R33-2
+Added Pin To Net: NetName=V_C1 Pin=SB15-2
+Added Net: Name=V_C1
+Added Pin To Net: NetName=V_C2 Pin=SB16-2
+Added Net: Name=V_C2
+Added Pin To Net: NetName=V_O1 Pin=C191-2
+Added Pin To Net: NetName=V_O1 Pin=D5-3
+Added Pin To Net: NetName=V_O1 Pin=L6-1
+Added Pin To Net: NetName=V_O1 Pin=R34-2
+Added Net: Name=V_O1
+Added Pin To Net: NetName=V_O2 Pin=L7-1
+Added Net: Name=V_O2

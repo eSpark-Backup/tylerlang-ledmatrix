@@ -1,0 +1,27 @@
+Change Component Description : Designator=L9 Old Description=1uH ±20% 1A 180mO 0603 Inductors New Description=1uH ±20% 1A 180mO 0603 Inductors
+Change Component Description : Designator=L6 Old Description=10O 100MHz 2.5A 1 50mO 0402 Ferrite Beads New Description=10O 100MHz 2.5A 1 50mO 0402 Ferrite Beads
+Change Component Description : Designator=L7 Old Description=10O 100MHz 2.5A 1 50mO 0402 Ferrite Beads New Description=10O 100MHz 2.5A 1 50mO 0402 Ferrite Beads
+Change Component Description : Designator=L5 Old Description=10O 100MHz 500mA 1 50mO 0402 Ferrite Beads New Description=10O 100MHz 500mA 1 50mO 0402 Ferrite Beads
+Change Component Description : Designator=L14 Old Description=10uH ±20% 4A 62mO 0630,SMD,7.3x6.6mm Inductors (SMD) RoHS New Description=10uH ±20% 4A 62mO 0630,SMD,7.3x6.6mm Inductors (SMD) RoHS
+Change Component Description : Designator=LS1 Old Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS New Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS
+Change Component Description : Designator=LS2 Old Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS New Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS
+Change Component Description : Designator=LS3 Old Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS New Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS
+Change Component Description : Designator=LS4 Old Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS New Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS
+Change component parameters: Designator = "L6"; Footprint = "HCB1005MF-100T25"; UniqueID = "\MUNXVJTB\MOEKIHME\IKCRUKZS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "2.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR) (Max)"; Value = "50mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TAI-TECH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L7"; Footprint = "HCB1005MF-100T25"; UniqueID = "\MUNXVJTB\MOEKIHME\FQZPHJOM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "2.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR) (Max)"; Value = "50mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TAI-TECH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Ring 4_B Member=Component LED87 WS2812B-Mini
+Added Member To Class: ClassName=U_Ring 5_C Member=Component LED145 WS2812B-Mini
+Added Member To Class: ClassName=U_Ring 5_D Member=Component LED151 WS2812B-Mini
+Added Member To Class: ClassName=U_SOUND_SEC Member=Component LS3 YS-SBZ9032C03R16

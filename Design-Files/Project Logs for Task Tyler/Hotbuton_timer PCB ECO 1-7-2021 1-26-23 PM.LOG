@@ -1,0 +1,1296 @@
+Added Component: Designator=LED1(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED3(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED5(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED6(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED7(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED8(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED9(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED10(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED11(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED12(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED13(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED14(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED15(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED16(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED17(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED18(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED19(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED20(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED21(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED22(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED23(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED24(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED25(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED26(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED27(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED28(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED29(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED30(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED31(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED32(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED33(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED34(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED35(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED36(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED37(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED38(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED39(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED40(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED41(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED42(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED43(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED44(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED45(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED46(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED47(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED48(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED49(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED50(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED51(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED52(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED53(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED54(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED55(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED56(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED57(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED58(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED59(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED60(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED61(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED62(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED63(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED64(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED65(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED66(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED67(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED68(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED69(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED70(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED71(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED72(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED73(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED74(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED75(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED76(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED77(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED78(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED79(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED80(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED81(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED82(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED83(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED84(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED85(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED86(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED87(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED88(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED89(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED90(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED91(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED92(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED93(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED94(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED95(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED96(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED97(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED98(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED99(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED100(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED101(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED102(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED103(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED104(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED105(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED106(WS2812B-Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "*https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812B-Mini_C527089.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,3.5x3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=LED1-1
+Added Pin To Net: NetName=5V Pin=LED2-1
+Added Pin To Net: NetName=5V Pin=LED3-1
+Added Pin To Net: NetName=5V Pin=LED4-1
+Added Pin To Net: NetName=5V Pin=LED5-1
+Added Pin To Net: NetName=5V Pin=LED6-1
+Added Pin To Net: NetName=5V Pin=LED7-1
+Added Pin To Net: NetName=5V Pin=LED8-1
+Added Pin To Net: NetName=5V Pin=LED9-1
+Added Pin To Net: NetName=5V Pin=LED10-1
+Added Pin To Net: NetName=5V Pin=LED11-1
+Added Pin To Net: NetName=5V Pin=LED12-1
+Added Pin To Net: NetName=5V Pin=LED13-1
+Added Pin To Net: NetName=5V Pin=LED14-1
+Added Pin To Net: NetName=5V Pin=LED15-1
+Added Pin To Net: NetName=5V Pin=LED16-1
+Added Pin To Net: NetName=5V Pin=LED17-1
+Added Pin To Net: NetName=5V Pin=LED18-1
+Added Pin To Net: NetName=5V Pin=LED19-1
+Added Pin To Net: NetName=5V Pin=LED20-1
+Added Pin To Net: NetName=5V Pin=LED21-1
+Added Pin To Net: NetName=5V Pin=LED22-1
+Added Pin To Net: NetName=5V Pin=LED23-1
+Added Pin To Net: NetName=5V Pin=LED24-1
+Added Pin To Net: NetName=5V Pin=LED25-1
+Added Pin To Net: NetName=5V Pin=LED26-1
+Added Pin To Net: NetName=5V Pin=LED27-1
+Added Pin To Net: NetName=5V Pin=LED28-1
+Added Pin To Net: NetName=5V Pin=LED29-1
+Added Pin To Net: NetName=5V Pin=LED30-1
+Added Pin To Net: NetName=5V Pin=LED31-1
+Added Pin To Net: NetName=5V Pin=LED32-1
+Added Pin To Net: NetName=5V Pin=LED33-1
+Added Pin To Net: NetName=5V Pin=LED34-1
+Added Pin To Net: NetName=5V Pin=LED35-1
+Added Pin To Net: NetName=5V Pin=LED36-1
+Added Pin To Net: NetName=5V Pin=LED37-1
+Added Pin To Net: NetName=5V Pin=LED38-1
+Added Pin To Net: NetName=5V Pin=LED39-1
+Added Pin To Net: NetName=5V Pin=LED40-1
+Added Pin To Net: NetName=5V Pin=LED41-1
+Added Pin To Net: NetName=5V Pin=LED42-1
+Added Pin To Net: NetName=5V Pin=LED43-1
+Added Pin To Net: NetName=5V Pin=LED44-1
+Added Pin To Net: NetName=5V Pin=LED45-1
+Added Pin To Net: NetName=5V Pin=LED46-1
+Added Pin To Net: NetName=5V Pin=LED47-1
+Added Pin To Net: NetName=5V Pin=LED48-1
+Added Pin To Net: NetName=5V Pin=LED49-1
+Added Pin To Net: NetName=5V Pin=LED50-1
+Added Pin To Net: NetName=5V Pin=LED51-1
+Added Pin To Net: NetName=5V Pin=LED52-1
+Added Pin To Net: NetName=5V Pin=LED53-1
+Added Pin To Net: NetName=5V Pin=LED54-1
+Added Pin To Net: NetName=5V Pin=LED55-1
+Added Pin To Net: NetName=5V Pin=LED56-1
+Added Pin To Net: NetName=5V Pin=LED57-1
+Added Pin To Net: NetName=5V Pin=LED58-1
+Added Pin To Net: NetName=5V Pin=LED59-1
+Added Pin To Net: NetName=5V Pin=LED60-1
+Added Pin To Net: NetName=5V Pin=LED61-1
+Added Pin To Net: NetName=5V Pin=LED62-1
+Added Pin To Net: NetName=5V Pin=LED63-1
+Added Pin To Net: NetName=5V Pin=LED64-1
+Added Pin To Net: NetName=5V Pin=LED65-1
+Added Pin To Net: NetName=5V Pin=LED66-1
+Added Pin To Net: NetName=5V Pin=LED67-1
+Added Pin To Net: NetName=5V Pin=LED68-1
+Added Pin To Net: NetName=5V Pin=LED69-1
+Added Pin To Net: NetName=5V Pin=LED70-1
+Added Pin To Net: NetName=5V Pin=LED71-1
+Added Pin To Net: NetName=5V Pin=LED72-1
+Added Pin To Net: NetName=5V Pin=LED73-1
+Added Pin To Net: NetName=5V Pin=LED74-1
+Added Pin To Net: NetName=5V Pin=LED75-1
+Added Pin To Net: NetName=5V Pin=LED76-1
+Added Pin To Net: NetName=5V Pin=LED77-1
+Added Pin To Net: NetName=5V Pin=LED78-1
+Added Pin To Net: NetName=5V Pin=LED79-1
+Added Pin To Net: NetName=5V Pin=LED80-1
+Added Pin To Net: NetName=5V Pin=LED81-1
+Added Pin To Net: NetName=5V Pin=LED82-1
+Added Pin To Net: NetName=5V Pin=LED83-1
+Added Pin To Net: NetName=5V Pin=LED84-1
+Added Pin To Net: NetName=5V Pin=LED85-1
+Added Pin To Net: NetName=5V Pin=LED86-1
+Added Pin To Net: NetName=5V Pin=LED87-1
+Added Pin To Net: NetName=5V Pin=LED88-1
+Added Pin To Net: NetName=5V Pin=LED89-1
+Added Pin To Net: NetName=5V Pin=LED90-1
+Added Pin To Net: NetName=5V Pin=LED91-1
+Added Pin To Net: NetName=5V Pin=LED92-1
+Added Pin To Net: NetName=5V Pin=LED93-1
+Added Pin To Net: NetName=5V Pin=LED94-1
+Added Pin To Net: NetName=5V Pin=LED95-1
+Added Pin To Net: NetName=5V Pin=LED96-1
+Added Pin To Net: NetName=5V Pin=LED97-1
+Added Pin To Net: NetName=5V Pin=LED98-1
+Added Pin To Net: NetName=5V Pin=LED99-1
+Added Pin To Net: NetName=5V Pin=LED100-1
+Added Pin To Net: NetName=5V Pin=LED101-1
+Added Pin To Net: NetName=5V Pin=LED102-1
+Added Pin To Net: NetName=5V Pin=LED103-1
+Added Pin To Net: NetName=5V Pin=LED104-1
+Added Pin To Net: NetName=5V Pin=LED105-1
+Added Pin To Net: NetName=5V Pin=LED106-1
+Added Net: Name=5V
+Added Net: Name=BAT_IN
+Added Net: Name=BUZZER
+Added Net: Name=CLK_OUT
+Added Pin To Net: NetName=DIN5 Pin=LED5-2
+Added Pin To Net: NetName=DIN5 Pin=LED6-4
+Added Net: Name=DIN5
+Added Pin To Net: NetName=DIN10 Pin=LED10-2
+Added Pin To Net: NetName=DIN10 Pin=LED11-4
+Added Net: Name=DIN10
+Added Pin To Net: NetName=DIN15 Pin=LED15-2
+Added Pin To Net: NetName=DIN15 Pin=LED16-4
+Added Net: Name=DIN15
+Added Pin To Net: NetName=GND Pin=LED1-3
+Added Pin To Net: NetName=GND Pin=LED2-3
+Added Pin To Net: NetName=GND Pin=LED3-3
+Added Pin To Net: NetName=GND Pin=LED4-3
+Added Pin To Net: NetName=GND Pin=LED5-3
+Added Pin To Net: NetName=GND Pin=LED6-3
+Added Pin To Net: NetName=GND Pin=LED7-3
+Added Pin To Net: NetName=GND Pin=LED8-3
+Added Pin To Net: NetName=GND Pin=LED9-3
+Added Pin To Net: NetName=GND Pin=LED10-3
+Added Pin To Net: NetName=GND Pin=LED11-3
+Added Pin To Net: NetName=GND Pin=LED12-3
+Added Pin To Net: NetName=GND Pin=LED13-3
+Added Pin To Net: NetName=GND Pin=LED14-3
+Added Pin To Net: NetName=GND Pin=LED15-3
+Added Pin To Net: NetName=GND Pin=LED16-3
+Added Pin To Net: NetName=GND Pin=LED17-3
+Added Pin To Net: NetName=GND Pin=LED18-3
+Added Pin To Net: NetName=GND Pin=LED19-3
+Added Pin To Net: NetName=GND Pin=LED20-3
+Added Pin To Net: NetName=GND Pin=LED21-3
+Added Pin To Net: NetName=GND Pin=LED22-3
+Added Pin To Net: NetName=GND Pin=LED23-3
+Added Pin To Net: NetName=GND Pin=LED24-3
+Added Pin To Net: NetName=GND Pin=LED25-3
+Added Pin To Net: NetName=GND Pin=LED26-3
+Added Pin To Net: NetName=GND Pin=LED27-3
+Added Pin To Net: NetName=GND Pin=LED28-3
+Added Pin To Net: NetName=GND Pin=LED29-3
+Added Pin To Net: NetName=GND Pin=LED30-3
+Added Pin To Net: NetName=GND Pin=LED31-3
+Added Pin To Net: NetName=GND Pin=LED32-3
+Added Pin To Net: NetName=GND Pin=LED33-3
+Added Pin To Net: NetName=GND Pin=LED34-3
+Added Pin To Net: NetName=GND Pin=LED36-3
+Added Pin To Net: NetName=GND Pin=LED37-3
+Added Pin To Net: NetName=GND Pin=LED38-3
+Added Pin To Net: NetName=GND Pin=LED39-3
+Added Pin To Net: NetName=GND Pin=LED40-3
+Added Pin To Net: NetName=GND Pin=LED41-3
+Added Pin To Net: NetName=GND Pin=LED42-3
+Added Pin To Net: NetName=GND Pin=LED43-3
+Added Pin To Net: NetName=GND Pin=LED44-3
+Added Pin To Net: NetName=GND Pin=LED45-3
+Added Pin To Net: NetName=GND Pin=LED46-3
+Added Pin To Net: NetName=GND Pin=LED47-3
+Added Pin To Net: NetName=GND Pin=LED48-3
+Added Pin To Net: NetName=GND Pin=LED49-3
+Added Pin To Net: NetName=GND Pin=LED50-3
+Added Pin To Net: NetName=GND Pin=LED51-3
+Added Pin To Net: NetName=GND Pin=LED52-3
+Added Pin To Net: NetName=GND Pin=LED53-3
+Added Pin To Net: NetName=GND Pin=LED54-3
+Added Pin To Net: NetName=GND Pin=LED55-3
+Added Pin To Net: NetName=GND Pin=LED56-3
+Added Pin To Net: NetName=GND Pin=LED57-3
+Added Pin To Net: NetName=GND Pin=LED58-3
+Added Pin To Net: NetName=GND Pin=LED59-3
+Added Pin To Net: NetName=GND Pin=LED60-3
+Added Pin To Net: NetName=GND Pin=LED61-3
+Added Pin To Net: NetName=GND Pin=LED62-3
+Added Pin To Net: NetName=GND Pin=LED63-3
+Added Pin To Net: NetName=GND Pin=LED64-3
+Added Pin To Net: NetName=GND Pin=LED65-3
+Added Pin To Net: NetName=GND Pin=LED66-3
+Added Pin To Net: NetName=GND Pin=LED67-3
+Added Pin To Net: NetName=GND Pin=LED68-3
+Added Pin To Net: NetName=GND Pin=LED69-3
+Added Pin To Net: NetName=GND Pin=LED70-3
+Added Pin To Net: NetName=GND Pin=LED71-3
+Added Pin To Net: NetName=GND Pin=LED72-3
+Added Pin To Net: NetName=GND Pin=LED73-3
+Added Pin To Net: NetName=GND Pin=LED74-3
+Added Pin To Net: NetName=GND Pin=LED75-3
+Added Pin To Net: NetName=GND Pin=LED76-3
+Added Pin To Net: NetName=GND Pin=LED77-3
+Added Pin To Net: NetName=GND Pin=LED78-3
+Added Pin To Net: NetName=GND Pin=LED79-3
+Added Pin To Net: NetName=GND Pin=LED80-3
+Added Pin To Net: NetName=GND Pin=LED81-3
+Added Pin To Net: NetName=GND Pin=LED82-3
+Added Pin To Net: NetName=GND Pin=LED83-3
+Added Pin To Net: NetName=GND Pin=LED84-3
+Added Pin To Net: NetName=GND Pin=LED85-3
+Added Pin To Net: NetName=GND Pin=LED86-3
+Added Pin To Net: NetName=GND Pin=LED87-3
+Added Pin To Net: NetName=GND Pin=LED89-3
+Added Pin To Net: NetName=GND Pin=LED90-3
+Added Pin To Net: NetName=GND Pin=LED91-3
+Added Pin To Net: NetName=GND Pin=LED92-3
+Added Pin To Net: NetName=GND Pin=LED93-3
+Added Pin To Net: NetName=GND Pin=LED94-3
+Added Pin To Net: NetName=GND Pin=LED95-3
+Added Pin To Net: NetName=GND Pin=LED96-3
+Added Pin To Net: NetName=GND Pin=LED97-3
+Added Pin To Net: NetName=GND Pin=LED98-3
+Added Pin To Net: NetName=GND Pin=LED99-3
+Added Pin To Net: NetName=GND Pin=LED100-3
+Added Pin To Net: NetName=GND Pin=LED101-3
+Added Pin To Net: NetName=GND Pin=LED102-3
+Added Pin To Net: NetName=GND Pin=LED103-3
+Added Pin To Net: NetName=GND Pin=LED104-3
+Added Pin To Net: NetName=GND Pin=LED105-3
+Added Pin To Net: NetName=GND Pin=LED106-3
+Added Net: Name=GND
+Added Net: Name=Ind
+Added Net: Name=INT
+Added Pin To Net: NetName=LED20 Pin=LED20-2
+Added Pin To Net: NetName=LED20 Pin=LED21-4
+Added Net: Name=LED20
+Added Pin To Net: NetName=LED25 Pin=LED25-2
+Added Pin To Net: NetName=LED25 Pin=LED26-4
+Added Net: Name=LED25
+Added Pin To Net: NetName=LED30 Pin=LED30-2
+Added Pin To Net: NetName=LED30 Pin=LED31-4
+Added Net: Name=LED30
+Added Pin To Net: NetName=LED35 Pin=LED35-2
+Added Pin To Net: NetName=LED35 Pin=LED36-4
+Added Net: Name=LED35
+Added Pin To Net: NetName=LED40 Pin=LED40-2
+Added Pin To Net: NetName=LED40 Pin=LED41-4
+Added Net: Name=LED40
+Added Pin To Net: NetName=LED45 Pin=LED45-2
+Added Pin To Net: NetName=LED45 Pin=LED46-4
+Added Net: Name=LED45
+Added Pin To Net: NetName=LED50 Pin=LED50-2
+Added Pin To Net: NetName=LED50 Pin=LED51-4
+Added Net: Name=LED50
+Added Pin To Net: NetName=LED53 Pin=LED53-2
+Added Pin To Net: NetName=LED53 Pin=LED54-4
+Added Net: Name=LED53
+Added Pin To Net: NetName=LED58 Pin=LED58-2
+Added Pin To Net: NetName=LED58 Pin=LED59-4
+Added Net: Name=LED58
+Added Pin To Net: NetName=LED63 Pin=LED63-2
+Added Pin To Net: NetName=LED63 Pin=LED64-4
+Added Net: Name=LED63
+Added Pin To Net: NetName=LED68 Pin=LED68-2
+Added Pin To Net: NetName=LED68 Pin=LED69-4
+Added Net: Name=LED68
+Added Pin To Net: NetName=LED73 Pin=LED73-2
+Added Pin To Net: NetName=LED73 Pin=LED74-4
+Added Net: Name=LED73
+Added Pin To Net: NetName=LED78 Pin=LED78-2
+Added Pin To Net: NetName=LED78 Pin=LED79-4
+Added Net: Name=LED78
+Added Pin To Net: NetName=LED83 Pin=LED83-2
+Added Pin To Net: NetName=LED83 Pin=LED84-4
+Added Net: Name=LED83
+Added Pin To Net: NetName=LED88 Pin=LED88-2
+Added Pin To Net: NetName=LED88 Pin=LED89-4
+Added Net: Name=LED88
+Added Pin To Net: NetName=LED93 Pin=LED93-2
+Added Pin To Net: NetName=LED93 Pin=LED94-4
+Added Net: Name=LED93
+Added Pin To Net: NetName=LED98 Pin=LED98-2
+Added Pin To Net: NetName=LED98 Pin=LED99-4
+Added Net: Name=LED98
+Added Pin To Net: NetName=LED103 Pin=LED103-2
+Added Pin To Net: NetName=LED103 Pin=LED104-4
+Added Net: Name=LED103
+Added Pin To Net: NetName=LED_IN Pin=LED1-4
+Added Net: Name=LED_IN
+Added Net: Name=LED
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED2-4
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED3-4
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED4-4
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED5-4
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED7-4
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED8-4
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED9-4
+Added Net: Name=NetLED8_2
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED9_2 Pin=LED10-4
+Added Net: Name=NetLED9_2
+Added Pin To Net: NetName=NetLED11_2 Pin=LED11-2
+Added Pin To Net: NetName=NetLED11_2 Pin=LED12-4
+Added Net: Name=NetLED11_2
+Added Pin To Net: NetName=NetLED12_2 Pin=LED12-2
+Added Pin To Net: NetName=NetLED12_2 Pin=LED13-4
+Added Net: Name=NetLED12_2
+Added Pin To Net: NetName=NetLED13_2 Pin=LED13-2
+Added Pin To Net: NetName=NetLED13_2 Pin=LED14-4
+Added Net: Name=NetLED13_2
+Added Pin To Net: NetName=NetLED14_2 Pin=LED14-2
+Added Pin To Net: NetName=NetLED14_2 Pin=LED15-4
+Added Net: Name=NetLED14_2
+Added Pin To Net: NetName=NetLED16_2 Pin=LED16-2
+Added Pin To Net: NetName=NetLED16_2 Pin=LED17-4
+Added Net: Name=NetLED16_2
+Added Pin To Net: NetName=NetLED17_2 Pin=LED17-2
+Added Pin To Net: NetName=NetLED17_2 Pin=LED18-4
+Added Net: Name=NetLED17_2
+Added Pin To Net: NetName=NetLED18_2 Pin=LED18-2
+Added Pin To Net: NetName=NetLED18_2 Pin=LED19-4
+Added Net: Name=NetLED18_2
+Added Pin To Net: NetName=NetLED19_2 Pin=LED19-2
+Added Pin To Net: NetName=NetLED19_2 Pin=LED20-4
+Added Net: Name=NetLED19_2
+Added Pin To Net: NetName=NetLED21_2 Pin=LED21-2
+Added Pin To Net: NetName=NetLED21_2 Pin=LED22-4
+Added Net: Name=NetLED21_2
+Added Pin To Net: NetName=NetLED22_2 Pin=LED22-2
+Added Pin To Net: NetName=NetLED22_2 Pin=LED23-4
+Added Net: Name=NetLED22_2
+Added Pin To Net: NetName=NetLED23_2 Pin=LED23-2
+Added Pin To Net: NetName=NetLED23_2 Pin=LED24-4
+Added Net: Name=NetLED23_2
+Added Pin To Net: NetName=NetLED24_2 Pin=LED24-2
+Added Pin To Net: NetName=NetLED24_2 Pin=LED25-4
+Added Net: Name=NetLED24_2
+Added Pin To Net: NetName=NetLED26_2 Pin=LED26-2
+Added Pin To Net: NetName=NetLED26_2 Pin=LED27-4
+Added Net: Name=NetLED26_2
+Added Pin To Net: NetName=NetLED27_2 Pin=LED27-2
+Added Pin To Net: NetName=NetLED27_2 Pin=LED28-4
+Added Net: Name=NetLED27_2
+Added Pin To Net: NetName=NetLED28_2 Pin=LED28-2
+Added Pin To Net: NetName=NetLED28_2 Pin=LED29-4
+Added Net: Name=NetLED28_2
+Added Pin To Net: NetName=NetLED29_2 Pin=LED29-2
+Added Pin To Net: NetName=NetLED29_2 Pin=LED30-4
+Added Net: Name=NetLED29_2
+Added Pin To Net: NetName=NetLED31_2 Pin=LED31-2
+Added Pin To Net: NetName=NetLED31_2 Pin=LED32-4
+Added Net: Name=NetLED31_2
+Added Pin To Net: NetName=NetLED32_2 Pin=LED32-2
+Added Pin To Net: NetName=NetLED32_2 Pin=LED33-4
+Added Net: Name=NetLED32_2
+Added Pin To Net: NetName=NetLED33_2 Pin=LED33-2
+Added Pin To Net: NetName=NetLED33_2 Pin=LED34-4
+Added Net: Name=NetLED33_2
+Added Pin To Net: NetName=NetLED34_2 Pin=LED34-2
+Added Pin To Net: NetName=NetLED34_2 Pin=LED35-4
+Added Net: Name=NetLED34_2
+Added Pin To Net: NetName=NetLED36_2 Pin=LED36-2
+Added Pin To Net: NetName=NetLED36_2 Pin=LED37-4
+Added Net: Name=NetLED36_2
+Added Pin To Net: NetName=NetLED37_2 Pin=LED37-2
+Added Pin To Net: NetName=NetLED37_2 Pin=LED38-4
+Added Net: Name=NetLED37_2
+Added Pin To Net: NetName=NetLED38_2 Pin=LED38-2
+Added Pin To Net: NetName=NetLED38_2 Pin=LED39-4
+Added Net: Name=NetLED38_2
+Added Pin To Net: NetName=NetLED39_2 Pin=LED39-2
+Added Pin To Net: NetName=NetLED39_2 Pin=LED40-4
+Added Net: Name=NetLED39_2
+Added Pin To Net: NetName=NetLED41_2 Pin=LED41-2
+Added Pin To Net: NetName=NetLED41_2 Pin=LED42-4
+Added Net: Name=NetLED41_2
+Added Pin To Net: NetName=NetLED42_2 Pin=LED42-2
+Added Pin To Net: NetName=NetLED42_2 Pin=LED43-4
+Added Net: Name=NetLED42_2
+Added Pin To Net: NetName=NetLED43_2 Pin=LED43-2
+Added Pin To Net: NetName=NetLED43_2 Pin=LED44-4
+Added Net: Name=NetLED43_2
+Added Pin To Net: NetName=NetLED44_2 Pin=LED44-2
+Added Pin To Net: NetName=NetLED44_2 Pin=LED45-4
+Added Net: Name=NetLED44_2
+Added Pin To Net: NetName=NetLED46_2 Pin=LED46-2
+Added Pin To Net: NetName=NetLED46_2 Pin=LED47-4
+Added Net: Name=NetLED46_2
+Added Pin To Net: NetName=NetLED47_2 Pin=LED47-2
+Added Pin To Net: NetName=NetLED47_2 Pin=LED48-4
+Added Net: Name=NetLED47_2
+Added Pin To Net: NetName=NetLED48_2 Pin=LED48-2
+Added Pin To Net: NetName=NetLED48_2 Pin=LED49-4
+Added Net: Name=NetLED48_2
+Added Pin To Net: NetName=NetLED49_2 Pin=LED49-2
+Added Pin To Net: NetName=NetLED49_2 Pin=LED50-4
+Added Net: Name=NetLED49_2
+Added Pin To Net: NetName=NetLED51_2 Pin=LED51-2
+Added Pin To Net: NetName=NetLED51_2 Pin=LED52-4
+Added Net: Name=NetLED51_2
+Added Pin To Net: NetName=NetLED52_2 Pin=LED52-2
+Added Pin To Net: NetName=NetLED52_2 Pin=LED53-4
+Added Net: Name=NetLED52_2
+Added Pin To Net: NetName=NetLED54_2 Pin=LED54-2
+Added Pin To Net: NetName=NetLED54_2 Pin=LED55-4
+Added Net: Name=NetLED54_2
+Added Pin To Net: NetName=NetLED55_2 Pin=LED55-2
+Added Pin To Net: NetName=NetLED55_2 Pin=LED56-4
+Added Net: Name=NetLED55_2
+Added Pin To Net: NetName=NetLED56_2 Pin=LED56-2
+Added Pin To Net: NetName=NetLED56_2 Pin=LED57-4
+Added Net: Name=NetLED56_2
+Added Pin To Net: NetName=NetLED57_2 Pin=LED57-2
+Added Pin To Net: NetName=NetLED57_2 Pin=LED58-4
+Added Net: Name=NetLED57_2
+Added Pin To Net: NetName=NetLED59_2 Pin=LED59-2
+Added Pin To Net: NetName=NetLED59_2 Pin=LED60-4
+Added Net: Name=NetLED59_2
+Added Pin To Net: NetName=NetLED60_2 Pin=LED60-2
+Added Pin To Net: NetName=NetLED60_2 Pin=LED61-4
+Added Net: Name=NetLED60_2
+Added Pin To Net: NetName=NetLED61_2 Pin=LED61-2
+Added Pin To Net: NetName=NetLED61_2 Pin=LED62-4
+Added Net: Name=NetLED61_2
+Added Pin To Net: NetName=NetLED62_2 Pin=LED62-2
+Added Pin To Net: NetName=NetLED62_2 Pin=LED63-4
+Added Net: Name=NetLED62_2
+Added Pin To Net: NetName=NetLED64_2 Pin=LED64-2
+Added Pin To Net: NetName=NetLED64_2 Pin=LED65-4
+Added Net: Name=NetLED64_2
+Added Pin To Net: NetName=NetLED65_2 Pin=LED65-2
+Added Pin To Net: NetName=NetLED65_2 Pin=LED66-4
+Added Net: Name=NetLED65_2
+Added Pin To Net: NetName=NetLED66_2 Pin=LED66-2
+Added Pin To Net: NetName=NetLED66_2 Pin=LED67-4
+Added Net: Name=NetLED66_2
+Added Pin To Net: NetName=NetLED67_2 Pin=LED67-2
+Added Pin To Net: NetName=NetLED67_2 Pin=LED68-4
+Added Net: Name=NetLED67_2
+Added Pin To Net: NetName=NetLED69_2 Pin=LED69-2
+Added Pin To Net: NetName=NetLED69_2 Pin=LED70-4
+Added Net: Name=NetLED69_2
+Added Pin To Net: NetName=NetLED70_2 Pin=LED70-2
+Added Pin To Net: NetName=NetLED70_2 Pin=LED71-4
+Added Net: Name=NetLED70_2
+Added Pin To Net: NetName=NetLED71_2 Pin=LED71-2
+Added Pin To Net: NetName=NetLED71_2 Pin=LED72-4
+Added Net: Name=NetLED71_2
+Added Pin To Net: NetName=NetLED72_2 Pin=LED72-2
+Added Pin To Net: NetName=NetLED72_2 Pin=LED73-4
+Added Net: Name=NetLED72_2
+Added Pin To Net: NetName=NetLED74_2 Pin=LED74-2
+Added Pin To Net: NetName=NetLED74_2 Pin=LED75-4
+Added Net: Name=NetLED74_2
+Added Pin To Net: NetName=NetLED75_2 Pin=LED75-2
+Added Pin To Net: NetName=NetLED75_2 Pin=LED76-4
+Added Net: Name=NetLED75_2
+Added Pin To Net: NetName=NetLED76_2 Pin=LED76-2
+Added Pin To Net: NetName=NetLED76_2 Pin=LED77-4
+Added Net: Name=NetLED76_2
+Added Pin To Net: NetName=NetLED77_2 Pin=LED77-2
+Added Pin To Net: NetName=NetLED77_2 Pin=LED78-4
+Added Net: Name=NetLED77_2
+Added Pin To Net: NetName=NetLED79_2 Pin=LED79-2
+Added Pin To Net: NetName=NetLED79_2 Pin=LED80-4
+Added Net: Name=NetLED79_2
+Added Pin To Net: NetName=NetLED80_2 Pin=LED80-2
+Added Pin To Net: NetName=NetLED80_2 Pin=LED81-4
+Added Net: Name=NetLED80_2
+Added Pin To Net: NetName=NetLED81_2 Pin=LED81-2
+Added Pin To Net: NetName=NetLED81_2 Pin=LED82-4
+Added Net: Name=NetLED81_2
+Added Pin To Net: NetName=NetLED82_2 Pin=LED82-2
+Added Pin To Net: NetName=NetLED82_2 Pin=LED83-4
+Added Net: Name=NetLED82_2
+Added Pin To Net: NetName=NetLED84_2 Pin=LED84-2
+Added Pin To Net: NetName=NetLED84_2 Pin=LED85-4
+Added Net: Name=NetLED84_2
+Added Pin To Net: NetName=NetLED85_2 Pin=LED85-2
+Added Pin To Net: NetName=NetLED85_2 Pin=LED86-4
+Added Net: Name=NetLED85_2
+Added Pin To Net: NetName=NetLED86_2 Pin=LED86-2
+Added Pin To Net: NetName=NetLED86_2 Pin=LED87-4
+Added Net: Name=NetLED86_2
+Added Pin To Net: NetName=NetLED87_2 Pin=LED87-2
+Added Pin To Net: NetName=NetLED87_2 Pin=LED88-4
+Added Net: Name=NetLED87_2
+Added Pin To Net: NetName=NetLED89_2 Pin=LED89-2
+Added Pin To Net: NetName=NetLED89_2 Pin=LED90-4
+Added Net: Name=NetLED89_2
+Added Pin To Net: NetName=NetLED90_2 Pin=LED90-2
+Added Pin To Net: NetName=NetLED90_2 Pin=LED91-4
+Added Net: Name=NetLED90_2
+Added Pin To Net: NetName=NetLED91_2 Pin=LED91-2
+Added Pin To Net: NetName=NetLED91_2 Pin=LED92-4
+Added Net: Name=NetLED91_2
+Added Pin To Net: NetName=NetLED92_2 Pin=LED92-2
+Added Pin To Net: NetName=NetLED92_2 Pin=LED93-4
+Added Net: Name=NetLED92_2
+Added Pin To Net: NetName=NetLED94_2 Pin=LED94-2
+Added Pin To Net: NetName=NetLED94_2 Pin=LED95-4
+Added Net: Name=NetLED94_2
+Added Pin To Net: NetName=NetLED95_2 Pin=LED95-2
+Added Pin To Net: NetName=NetLED95_2 Pin=LED96-4
+Added Net: Name=NetLED95_2
+Added Pin To Net: NetName=NetLED96_2 Pin=LED96-2
+Added Pin To Net: NetName=NetLED96_2 Pin=LED97-4
+Added Net: Name=NetLED96_2
+Added Pin To Net: NetName=NetLED97_2 Pin=LED97-2
+Added Pin To Net: NetName=NetLED97_2 Pin=LED98-4
+Added Net: Name=NetLED97_2
+Added Pin To Net: NetName=NetLED99_2 Pin=LED99-2
+Added Pin To Net: NetName=NetLED99_2 Pin=LED100-4
+Added Net: Name=NetLED99_2
+Added Pin To Net: NetName=NetLED100_2 Pin=LED100-2
+Added Pin To Net: NetName=NetLED100_2 Pin=LED101-4
+Added Net: Name=NetLED100_2
+Added Pin To Net: NetName=NetLED101_2 Pin=LED101-2
+Added Pin To Net: NetName=NetLED101_2 Pin=LED102-4
+Added Net: Name=NetLED101_2
+Added Pin To Net: NetName=NetLED102_2 Pin=LED102-2
+Added Pin To Net: NetName=NetLED102_2 Pin=LED103-4
+Added Net: Name=NetLED102_2
+Added Pin To Net: NetName=NetLED104_2 Pin=LED104-2
+Added Pin To Net: NetName=NetLED104_2 Pin=LED105-4
+Added Net: Name=NetLED104_2
+Added Pin To Net: NetName=NetLED105_2 Pin=LED105-2
+Added Pin To Net: NetName=NetLED105_2 Pin=LED106-4
+Added Net: Name=NetLED105_2
+Added Net: Name=NetLS1_2
+Added Net: Name=NetR?_1
+Added Net: Name=NetSB1_1
+Added Net: Name=OSC_IN
+Added Net: Name=OSC_OUT
+Added Net: Name=RESET
+Added Net: Name=RX
+Added Net: Name=SCL
+Added Net: Name=SDA
+Added Net: Name=TX
+Added Net: Name=V_BAT
+Added Net: Name=VDD
+Added Class: Name=U_connector Section
+Added Class: Name=U_Controller Section
+Added Class: Name=U_LED section 2
+Added Class: Name=U_LED Section
+Added Class: Name=U_Power Section
+Added Class: Name=U_RTC clock

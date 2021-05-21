@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=LS1-1
+Removed Pin From Net: NetName=BUZZ Pin=LS1-2
+Removed Pin From Net: NetName=NetD2_1 Pin=LS2-1
+Removed Pin From Net: NetName=BUZZ1 Pin=LS2-2
+Removed Pin From Net: NetName=NetD4_1 Pin=LS3-1
+Removed Pin From Net: NetName=BUZZ3 Pin=LS3-2
+Removed Pin From Net: NetName=NetD3_1 Pin=LS4-1
+Removed Pin From Net: NetName=BUZZ2 Pin=LS4-2
+Added Component: Designator=LS1(YS-SBZ9032C03R16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "2700Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fengming"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "2 ~ 4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,9x3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Added Component: Designator=LS2(YS-SBZ9032C03R16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "2700Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fengming"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "2 ~ 4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,9x3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Added Component: Designator=LS3(YS-SBZ9032C03R16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "2700Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fengming"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "2 ~ 4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,9x3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Added Component: Designator=LS4(YS-SBZ9032C03R16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Frequency - Self Resonant"; Value = "2700Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fengming"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "2 ~ 4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,9x3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetD1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetD1_1 Pin=LS1-1
+Added Pin To Net: NetName=BUZZ Pin=LS1-2
+Added Pin To Net: NetName=NetD2_1 Pin=LS2-1
+Added Pin To Net: NetName=NetD2_1 Pin=LS2-1
+Added Pin To Net: NetName=NetD2_1 Pin=LS2-1
+Added Pin To Net: NetName=BUZZ1 Pin=LS2-2
+Added Pin To Net: NetName=NetD4_1 Pin=LS3-1
+Added Pin To Net: NetName=NetD4_1 Pin=LS3-1
+Added Pin To Net: NetName=NetD4_1 Pin=LS3-1
+Added Pin To Net: NetName=BUZZ3 Pin=LS3-2
+Added Pin To Net: NetName=NetD3_1 Pin=LS4-1
+Added Pin To Net: NetName=NetD3_1 Pin=LS4-1
+Added Pin To Net: NetName=NetD3_1 Pin=LS4-1
+Added Pin To Net: NetName=BUZZ2 Pin=LS4-2

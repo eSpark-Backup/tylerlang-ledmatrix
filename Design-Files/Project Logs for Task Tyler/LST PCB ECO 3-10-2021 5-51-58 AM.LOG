@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=GND Pin=C192a-1
+Added Pin To Net: NetName=V_O2 Pin=C192a-2
+Added Pin To Net: NetName=NetD5a_1 Pin=D5a-1
+Added Pin To Net: NetName=V_C2 Pin=D5a-2
+Added Pin To Net: NetName=V_O2 Pin=D5a-3
+Added Pin To Net: NetName=NetQ13a_1 Pin=Q13a-1
+Added Pin To Net: NetName=GND Pin=Q13a-2
+Added Pin To Net: NetName=NetD5a_1 Pin=Q13a-3
+Added Pin To Net: NetName=NetQ13a_1 Pin=R33a-1
+Added Pin To Net: NetName=EN_CO_2 Pin=R33a-2
+Added Pin To Net: NetName=NetD5a_1 Pin=R34a-1
+Added Pin To Net: NetName=V_C2 Pin=R34a-2
+Added Pin To Net: NetName=GND Pin=R35a-1
+Added Pin To Net: NetName=V_O2 Pin=R35a-2
+Added Member To Class: ClassName=U_LED_POWER 2 Member=Component C192a 10uF
+Added Member To Class: ClassName=U_LED_POWER 2 Member=Component D5a SSM3J334R,LF
+Added Member To Class: ClassName=U_LED_POWER 2 Member=Component Q13a MMBT3904-TP
+Added Member To Class: ClassName=U_LED_POWER 2 Member=Component R33a 10K
+Added Member To Class: ClassName=U_LED_POWER 2 Member=Component R34a 10K
+Added Member To Class: ClassName=U_LED_POWER 2 Member=Component R35a 10K

@@ -1,0 +1,21 @@
+Change Component Description : Designator=L1 Old Description=1uH ±20% 1A 180mO 0603 Inductors (SMD) RoHS New Description=1uH ±20% 1A 180mO 0603 Inductors (SMD) RoHS
+Change Component Description : Designator=LS1 Old Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS New Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS
+Change component parameters: Designator = "D1"; Footprint = "SOD882"; UniqueID = "\GVWSPHNP\YROJVPEY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/TVS_Leiditech-ESDA33CP_C384838.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Peak Pulse (10/1000µs)"; Value = "11.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Leiditech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Bidirectional"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Breakdown (Min)"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Clamping (Max) @ Ipp"; Value = "14.1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Reverse Standoff (Typ)"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED35-3
+Added Pin To Net: NetName=GND Pin=LED88-3
+Added Pin To Net: NetName=GND Pin=LED141-3
+Added Member To Class: ClassName=U_LED section 2 Member=Component LED71 WS2812B-Mini
+Added Member To Class: ClassName=U_LED section 2 Member=Component LED77 WS2812B-Mini
+Added Member To Class: ClassName=U_LED section 3 Member=Component LED122 WS2812B-Mini
+Added Member To Class: ClassName=U_LED section 3 Member=Component LED140 WS2812B-Mini
+Added Member To Class: ClassName=U_LED section 3 Member=Component LED148 WS2812B-Mini
+Added Member To Class: ClassName=U_LED section 3 Member=Component LED149 WS2812B-Mini

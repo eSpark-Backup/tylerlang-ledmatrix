@@ -1,0 +1,5 @@
+Harness=RXD,TXD,RESET#
+Harness_1=LED,LED_A,LED_B,LED_C,LED_D,LED_E
+Harness_2=EN_CO_1,EN_CO_2
+Harness_3=SDA,SCL,INT,CLK_OUT
+Harness_4=BUZZER,BUZZER_1

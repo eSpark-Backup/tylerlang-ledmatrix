@@ -1,0 +1,192 @@
+Removed Pin From Net: NetName=VCC_L1 Pin=C110-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C111-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C112-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C113-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C114-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C115-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C116-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C117-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C118-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C119-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C120-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C121-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C122-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C123-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C124-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C125-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C126-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C127-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C128-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C129-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C130-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C131-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C132-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C133-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C134-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C135-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C136-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C137-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C138-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C139-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C140-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C141-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C142-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C143-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C144-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C145-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C146-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C147-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C148-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C149-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C150-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C151-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C152-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C153-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C154-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C155-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C156-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C157-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C158-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C159-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C160-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C161-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C162-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C163-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C164-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C165-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C166-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C167-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C168-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C169-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C170-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C171-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C172-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C173-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C174-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C175-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C176-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C177-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C178-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C179-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C180-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C181-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C182-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C183-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C184-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C185-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C186-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C187-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C188-2
+Removed Pin From Net: NetName=VCC_L1 Pin=C189-2
+Change Component Description : Designator=L9 Old Description=1uH ±20% 1A 180mO 0603 Inductors New Description=1uH ±20% 1A 180mO 0603 Inductors
+Change Component Description : Designator=L6 Old Description=10O 100MHz 2.5A 1 50mO 0402 Ferrite Beads New Description=10O 100MHz 2.5A 1 50mO 0402 Ferrite Beads
+Change Component Description : Designator=L7 Old Description=10O 100MHz 2.5A 1 50mO 0402 Ferrite Beads New Description=10O 100MHz 2.5A 1 50mO 0402 Ferrite Beads
+Change Component Description : Designator=L5 Old Description=10O 100MHz 500mA 1 50mO 0402 Ferrite Beads New Description=10O 100MHz 500mA 1 50mO 0402 Ferrite Beads
+Change Component Description : Designator=L14 Old Description=10uH ±20% 4A 62mO 0630,SMD,7.3x6.6mm Inductors (SMD) RoHS New Description=10uH ±20% 4A 62mO 0630,SMD,7.3x6.6mm Inductors (SMD) RoHS
+Change Component Description : Designator=LS1 Old Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS New Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS
+Change Component Description : Designator=LS2 Old Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS New Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS
+Change Component Description : Designator=LS3 Old Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS New Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS
+Change Component Description : Designator=LS4 Old Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS New Description=NO 2700Hz 85dB @ 3V, 10cm 3V F9mm SMD,9x3.2mm Buzzers RoHS
+Change component parameters: Designator = "L6"; Footprint = "HCB1005MF-100T25"; UniqueID = "\MUNXVJTB\MOEKIHME\IKCRUKZS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "2.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR) (Max)"; Value = "50mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TAI-TECH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L7"; Footprint = "HCB1005MF-100T25"; UniqueID = "\MUNXVJTB\MOEKIHME\FQZPHJOM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "2.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR) (Max)"; Value = "50mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TAI-TECH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=V_TR_O Pin=C28-2
+Added Pin To Net: NetName=V_TR_O Pin=C29-2
+Added Pin To Net: NetName=VCC_L2 Pin=C110-2
+Added Pin To Net: NetName=VCC_L2 Pin=C111-2
+Added Pin To Net: NetName=VCC_L2 Pin=C112-2
+Added Pin To Net: NetName=VCC_L2 Pin=C113-2
+Added Pin To Net: NetName=VCC_L2 Pin=C114-2
+Added Pin To Net: NetName=VCC_L2 Pin=C115-2
+Added Pin To Net: NetName=VCC_L2 Pin=C116-2
+Added Pin To Net: NetName=VCC_L2 Pin=C117-2
+Added Pin To Net: NetName=VCC_L2 Pin=C118-2
+Added Pin To Net: NetName=VCC_L2 Pin=C119-2
+Added Pin To Net: NetName=VCC_L2 Pin=C120-2
+Added Pin To Net: NetName=VCC_L2 Pin=C121-2
+Added Pin To Net: NetName=VCC_L2 Pin=C122-2
+Added Pin To Net: NetName=VCC_L2 Pin=C123-2
+Added Pin To Net: NetName=VCC_L2 Pin=C124-2
+Added Pin To Net: NetName=VCC_L2 Pin=C125-2
+Added Pin To Net: NetName=VCC_L2 Pin=C126-2
+Added Pin To Net: NetName=VCC_L2 Pin=C127-2
+Added Pin To Net: NetName=VCC_L2 Pin=C128-2
+Added Pin To Net: NetName=VCC_L2 Pin=C129-2
+Added Pin To Net: NetName=VCC_L2 Pin=C130-2
+Added Pin To Net: NetName=VCC_L2 Pin=C131-2
+Added Pin To Net: NetName=VCC_L2 Pin=C132-2
+Added Pin To Net: NetName=VCC_L2 Pin=C133-2
+Added Pin To Net: NetName=VCC_L2 Pin=C134-2
+Added Pin To Net: NetName=VCC_L2 Pin=C135-2
+Added Pin To Net: NetName=VCC_L2 Pin=C136-2
+Added Pin To Net: NetName=VCC_L2 Pin=C137-2
+Added Pin To Net: NetName=VCC_L2 Pin=C138-2
+Added Pin To Net: NetName=VCC_L2 Pin=C139-2
+Added Pin To Net: NetName=VCC_L2 Pin=C140-2
+Added Pin To Net: NetName=VCC_L2 Pin=C141-2
+Added Pin To Net: NetName=VCC_L2 Pin=C142-2
+Added Pin To Net: NetName=VCC_L2 Pin=C143-2
+Added Pin To Net: NetName=VCC_L2 Pin=C144-2
+Added Pin To Net: NetName=VCC_L2 Pin=C145-2
+Added Pin To Net: NetName=VCC_L2 Pin=C146-2
+Added Pin To Net: NetName=VCC_L2 Pin=C147-2
+Added Pin To Net: NetName=VCC_L2 Pin=C148-2
+Added Pin To Net: NetName=VCC_L2 Pin=C149-2
+Added Pin To Net: NetName=VCC_L2 Pin=C150-2
+Added Pin To Net: NetName=VCC_L2 Pin=C151-2
+Added Pin To Net: NetName=VCC_L2 Pin=C152-2
+Added Pin To Net: NetName=VCC_L2 Pin=C153-2
+Added Pin To Net: NetName=VCC_L2 Pin=C154-2
+Added Pin To Net: NetName=VCC_L2 Pin=C155-2
+Added Pin To Net: NetName=VCC_L2 Pin=C156-2
+Added Pin To Net: NetName=VCC_L2 Pin=C157-2
+Added Pin To Net: NetName=VCC_L2 Pin=C158-2
+Added Pin To Net: NetName=VCC_L2 Pin=C159-2
+Added Pin To Net: NetName=VCC_L2 Pin=C160-2
+Added Pin To Net: NetName=VCC_L2 Pin=C161-2
+Added Pin To Net: NetName=VCC_L2 Pin=C162-2
+Added Pin To Net: NetName=VCC_L2 Pin=C163-2
+Added Pin To Net: NetName=VCC_L2 Pin=C164-2
+Added Pin To Net: NetName=VCC_L2 Pin=C165-2
+Added Pin To Net: NetName=VCC_L2 Pin=C166-2
+Added Pin To Net: NetName=VCC_L2 Pin=C167-2
+Added Pin To Net: NetName=VCC_L2 Pin=C168-2
+Added Pin To Net: NetName=VCC_L2 Pin=C169-2
+Added Pin To Net: NetName=VCC_L2 Pin=C170-2
+Added Pin To Net: NetName=VCC_L2 Pin=C171-2
+Added Pin To Net: NetName=VCC_L2 Pin=C172-2
+Added Pin To Net: NetName=VCC_L2 Pin=C173-2
+Added Pin To Net: NetName=VCC_L2 Pin=C174-2
+Added Pin To Net: NetName=VCC_L2 Pin=C175-2
+Added Pin To Net: NetName=VCC_L2 Pin=C176-2
+Added Pin To Net: NetName=VCC_L2 Pin=C177-2
+Added Pin To Net: NetName=VCC_L2 Pin=C178-2
+Added Pin To Net: NetName=VCC_L2 Pin=C179-2
+Added Pin To Net: NetName=VCC_L2 Pin=C180-2
+Added Pin To Net: NetName=VCC_L2 Pin=C181-2
+Added Pin To Net: NetName=VCC_L2 Pin=C182-2
+Added Pin To Net: NetName=VCC_L2 Pin=C183-2
+Added Pin To Net: NetName=VCC_L2 Pin=C184-2
+Added Pin To Net: NetName=VCC_L2 Pin=C185-2
+Added Pin To Net: NetName=VCC_L2 Pin=C186-2
+Added Pin To Net: NetName=VCC_L2 Pin=C187-2
+Added Pin To Net: NetName=VCC_L2 Pin=C188-2
+Added Pin To Net: NetName=VCC_L2 Pin=C189-2
+Added Member To Class: ClassName=U_SOUND_SEC Member=Component LS1 YS-SBZ9032C03R16
+Added Member To Class: ClassName=U_SOUND_SEC Member=Component LS2 YS-SBZ9032C03R16
+Added Member To Class: ClassName=U_SOUND_SEC Member=Component LS3 YS-SBZ9032C03R16
+Added Member To Class: ClassName=U_SOUND_SEC Member=Component LS4 YS-SBZ9032C03R16
+Added Member To Class: ClassName=U_Ring 4_A Member=Component SB_L1 Solder Bridge

@@ -1,6 +1,7 @@
 #include <tinyNeoPixel_Static.h>
 
 #define PIN             3
+#define PIN2            12
 #define ledpwr1         4
 #define ledpwr2         5
 #define piezoPin        1
@@ -13,7 +14,7 @@
 //   NEO_RGB     Pixels are wired for RGB bitstream (v1 FLORA pixels, not v2)
 // Parameter 4 = array to store pixel data in
 
-#define NUMPIXELS 160
+#define NUMPIXELS 80
 
 // Since this is for the static version of the library, we need to supply the pixel array
 // This saves space by eliminating use of malloc() and free(), and makes the RAM used for
@@ -26,7 +27,8 @@ byte pixels[NUMPIXELS * 3];
 // example for more information on possible values. Finally, for the 4th argument we pass the array we
 // defined above.
 
-tinyNeoPixel strip = tinyNeoPixel(NUMPIXELS, PIN, NEO_GRB, pixels);
+//tinyNeoPixel strip = tinyNeoPixel(NUMPIXELS, PIN, NEO_GRB, pixels);
+tinyNeoPixel strip = tinyNeoPixel(NUMPIXELS, PIN2, NEO_GRB, pixels);
 
 // IMPORTANT: To reduce NeoPixel burnout risk, add 1000 uF capacitor across
 // pixel power leads, add 300 - 500 Ohm resistor on first pixel's data input
@@ -37,17 +39,19 @@ void setup() {
 
   pinMode(ledpwr1, OUTPUT);
   pinMode(ledpwr2, OUTPUT);
-  pinMode(piezoPin, OUTPUT);
-  pinMode(piezoPin1, OUTPUT);
-  delay (5);
+//  pinMode(piezoPin, OUTPUT);
+//  pinMode(piezoPin1, OUTPUT);
+  delay (50);
   digitalWrite(ledpwr1, HIGH);
   digitalWrite(ledpwr2, HIGH);
-  digitalWrite(piezoPin, LOW);
-  digitalWrite(piezoPin1, LOW);
+//  digitalWrite(piezoPin, LOW);
+//  digitalWrite(piezoPin1, LOW);
   
-  pinMode(PIN,OUTPUT); //set pin output - this is not done internally by the library for Static version of library
+ // pinMode(PIN,OUTPUT); //set pin output - this is not done internally by the library for Static version of library
+  pinMode(PIN2,OUTPUT);
   //strip.begin(); //Static version does not use this.
   strip.show(); // Initialize all pixels to 'off'
+  //strip2.show(); // Initialize all pixels to 'off'
 }
 
 void loop() {
@@ -56,13 +60,13 @@ void loop() {
   colorWipe(strip.Color(0, 255, 0), 50); // Green
   colorWipe(strip.Color(0, 0, 255), 50); // Blue
   // Send a theater pixel chase in...
-  theaterChase(strip.Color(127, 127, 127), 50); // White
-  theaterChase(strip.Color(127, 0, 0), 50); // Red
-  theaterChase(strip.Color(0, 0, 127), 50); // Blue
-
-  rainbow(20);
-  rainbowCycle(20);
-  theaterChaseRainbow(50);
+//  theaterChase(strip.Color(127, 127, 127), 50); // White
+//  theaterChase(strip.Color(127, 0, 0), 50); // Red
+//  theaterChase(strip.Color(0, 0, 127), 50); // Blue
+//
+//  rainbow(20);
+//  rainbowCycle(20);
+//  theaterChaseRainbow(50);
 }
 
 // Fill the dots one after the other with a color

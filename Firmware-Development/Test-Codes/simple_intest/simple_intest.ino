@@ -14,7 +14,7 @@
 #define piezoPin1       2
 
 // How many NeoPixels are attached to the Arduino?
-#define NUMPIXELS      66
+#define NUMPIXELS      161
 
 // Since this is for the static version of the library, we need to supply the pixel array
 // This saves space by eliminating use of malloc() and free(), and makes the RAM used for
@@ -28,11 +28,11 @@ byte pixels1[1 * 3];
 // example for more information on possible values.
 
 tinyNeoPixel leds = tinyNeoPixel(NUMPIXELS, PIN, NEO_GRB, pixels);
-tinyNeoPixel c_led = tinyNeoPixel(1, CPIN, NEO_GRB, pixels1);
+//tinyNeoPixel c_led = tinyNeoPixel(1, CPIN, NEO_GRB, pixels1);
 //tinyNeoPixel leds = tinyNeoPixel(NUMPIXELS, PIN2, NEO_GRB, pixels);
 
 unsigned long previousMillis = 0;
-const long interval = 20000;
+const long interval = 40000;
 bool flag = false;
 
 void setup() {
@@ -45,7 +45,9 @@ void setup() {
   digitalWrite(ledpwr2, HIGH);
   
   pinMode(PIN, OUTPUT);
-  pinMode(CPIN, OUTPUT);
+
+  leds.setBrightness(50);
+//  pinMode(CPIN, OUTPUT);
 
 
 
@@ -53,13 +55,30 @@ void setup() {
   //and replace with direct port writes to save a couple hundred bytes in sketch size (note that this
   //savings is only present when you eliminate *all* references to pinMode).
   //leds.begin() not needed on tinyNeoPixel
+while (millis() - previousMillis < 5000) {
+  for(int x = 0; x < 256; x++){
+    leds.setPixelColor(0, leds.Color(x, 0, 0)); // Yellow Fade-in
+    leds.show();
+    delay(5);
+  }
+  
+  for(int x = 255; x > 0; x--){
+    leds.setPixelColor(0, leds.Color(x, 0, 0)); // Yellow Fade-in
+    leds.show();
+    delay(5);
+  }
+}
 
+  leds.setPixelColor(0, leds.Color(255, 0, 0)); // Yellow Fade-in
+  leds.show();
+  delay(10); 
+  
   for( int ring1=0; ring1<256; ring1++ ) {
       int r = ring1;  // Redness starts at zero and goes up to full
       int b = 0;  // Blue starts at full and goes down to zero
       int g = ring1;              // No green needed to go from blue to red
       
-      for(int x = 0; x < 12; x++){
+      for(int x = 1; x < 13; x++){
           leds.setPixelColor(x, leds.Color(r, g, b)); // Yellow Fade-in
       }
       
@@ -71,9 +90,10 @@ void setup() {
 
 void loop() {
 
-if (millis() - previousMillis > 5000)
-  flag = true;
 
+
+
+     
 
 
 if (millis() - previousMillis < interval) {
@@ -84,26 +104,9 @@ if (millis() - previousMillis < interval) {
 //      int b = 0;  // Blue starts at full and goes down to zero
 //      int g = ring1;              // No green needed to go from blue to red
       
+/*
 
-    if (!flag) {
-      for(int x = 0; x < 256; x++){
-        c_led.setPixelColor(0, c_led.Color(x, 0, 0)); // Yellow Fade-in
-        c_led.show();
-        delay(10);
-      }
-      
-      for(int x = 255; x > 0; x--){
-        c_led.setPixelColor(0, c_led.Color(x, 0, 0)); // Yellow Fade-in
-        c_led.show();
-        delay(10);
-      }
-    }
-
-    else {
-      c_led.setPixelColor(0, c_led.Color(255, 0, 0)); // Yellow Fade-in
-      c_led.show();
-      delay(10);      
-    }
+*/
 //
 //
 //      
@@ -120,14 +123,14 @@ if (millis() - previousMillis < interval) {
       int b = 0;  // Blue starts at full and goes down to zero
       int g = ring2;              // No green needed to go from blue to red
 
-      for(int x = 0; x < 12; x++){
+      for(int x = 1; x < 13; x++){
           leds.setPixelColor(x, leds.Color(255-r, 255-g, b)); // Yellow Fade-in
       }
       
       leds.show();
       delay(10);
 
-      for(int x = 12; x < 34; x++){
+      for(int x = 13; x < 35; x++){
           leds.setPixelColor(x, leds.Color(r, g/1.54, b)); // Yellow Fade-in
       }
       
@@ -140,14 +143,14 @@ if (millis() - previousMillis < interval) {
       int b = 0;  // Blue starts at full and goes down to zero
       int g = ring3;              // No green needed to go from blue to red
 
-      for(int x = 12; x < 34; x++){
+      for(int x = 13; x < 35; x++){
           leds.setPixelColor(x, leds.Color(255-r, 165-(g/1.54), b)); // Yellow Fade-in
       }
       
       leds.show();
       delay(10); 
       
-      for(int x = 34; x < 67; x++){
+      for(int x = 35; x < 67; x++){
           leds.setPixelColor(x, leds.Color(r, 0, b)); // Yellow Fade-in
       }
       
@@ -156,21 +159,51 @@ if (millis() - previousMillis < interval) {
   }
 
   for( int ring4=0; ring4<256; ring4++ ) {
-      for(int x = 34; x < 67; x++){
+      for(int x = 35; x < 67; x++){
           leds.setPixelColor(x, leds.Color(255-ring4, 0, 0)); // Yellow Fade-in
       }
       
       leds.show();
       delay(10);
 
-      for(int x = 0; x < 12; x++){
-          leds.setPixelColor(x, leds.Color(ring4, ring4, 0)); // Yellow Fade-in
+      for(int x = 67; x < 109; x++){
+          leds.setPixelColor(x, leds.Color(0, ring4, ring4)); // Yellow Fade-in
+      }
+      
+      leds.show();
+      delay(10);
+  }
+
+  for( int ring5=0; ring5<256; ring5++ ) {
+      for(int x = 67; x < 109; x++){
+          leds.setPixelColor(x, leds.Color(0, 255-ring5, 255-ring5)); // Yellow Fade-in
       }
       
       leds.show();
       delay(10);
 
+      for(int x = 109; x < 161; x++){
+          leds.setPixelColor(x, leds.Color(ring5, 0, ring5)); // Yellow Fade-in
+      }
       
+      leds.show();
+      delay(10);
+  }
+
+  for( int fin=0; fin<256; fin++ ) {
+      for(int x = 109; x < 161; x++){
+          leds.setPixelColor(x, leds.Color(255-fin, 0, 255-fin)); // Yellow Fade-in
+      }
+      
+      leds.show();
+      delay(10);
+
+      for(int x = 1; x < 13; x++){
+          leds.setPixelColor(x, leds.Color(fin, fin, 0)); // Yellow Fade-in
+      }
+      
+      leds.show();
+      delay(10);
   }
 }
 
@@ -178,7 +211,7 @@ else {
       
       tone(piezoPin, 1000, 500);
       
-      for(int x = 0; x < 67; x++){
+      for(int x = 1; x < 161; x++){
           leds.setPixelColor(x, leds.Color(255, 0, 0)); // Yellow Fade-in
       }
       
@@ -213,7 +246,7 @@ else {
 //      leds.show();
 //      delay(100);
 
-      for(int x = 0; x < 67; x++){
+      for(int x = 1; x < 161; x++){
           leds.setPixelColor(x, leds.Color(0, 0, 0)); // Yellow Fade-in
       }
       

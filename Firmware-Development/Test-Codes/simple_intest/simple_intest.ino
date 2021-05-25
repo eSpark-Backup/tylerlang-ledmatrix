@@ -55,36 +55,11 @@ void setup() {
   //and replace with direct port writes to save a couple hundred bytes in sketch size (note that this
   //savings is only present when you eliminate *all* references to pinMode).
   //leds.begin() not needed on tinyNeoPixel
-while (millis() - previousMillis < 5000) {
-  for(int x = 0; x < 256; x++){
-    leds.setPixelColor(0, leds.Color(x, 0, 0)); // Yellow Fade-in
-    leds.show();
-    delay(5);
-  }
-  
-  for(int x = 255; x > 0; x--){
-    leds.setPixelColor(0, leds.Color(x, 0, 0)); // Yellow Fade-in
-    leds.show();
-    delay(5);
-  }
-}
 
-  leds.setPixelColor(0, leds.Color(255, 0, 0)); // Yellow Fade-in
-  leds.show();
-  delay(10); 
+
+
   
-  for( int ring1=0; ring1<256; ring1++ ) {
-      int r = ring1;  // Redness starts at zero and goes up to full
-      int b = 0;  // Blue starts at full and goes down to zero
-      int g = ring1;              // No green needed to go from blue to red
-      
-      for(int x = 1; x < 13; x++){
-          leds.setPixelColor(x, leds.Color(r, g, b)); // Yellow Fade-in
-      }
-      
-      leds.show();
-      delay(10);
-  }
+
   
 }
 
@@ -92,10 +67,40 @@ void loop() {
 
 
 
+while (millis() - previousMillis < 5000) {
+  for(int x = 0; x < 256; x+=2){
+    leds.setPixelColor(0, leds.Color(x, 0, 0)); // Yellow Fade-in
+    leds.show();
+    delay(5);
+  }
 
-     
+  
+  for(int x = 255; x > 0; x-=2){
+    leds.setPixelColor(0, leds.Color(x, 0, 0)); // Yellow Fade-in
+    leds.show();
+    delay(5);
+  }
+}
 
+if (!flag) {
+  leds.setPixelColor(0, leds.Color(255, 0, 0)); // Yellow Fade-in
+  leds.show();
+  delay(5);
 
+  for( int ring1=0; ring1<256; ring1+=2 ) {
+      int r = ring1;  // Redness starts at zero and goes up to full
+      int b = 0;  // Blue starts at full and goes down to zero
+      int g = ring1;              // No green needed to go from blue to red
+      
+      for(int x = 1; x < 13; x++){
+          leds.setPixelColor(x, leds.Color(r, g, b)); // Yellow Fade-in
+      }
+      leds.show();
+      delay(5);
+  }
+
+  flag = true;
+}
 if (millis() - previousMillis < interval) {
 
 
@@ -118,27 +123,27 @@ if (millis() - previousMillis < interval) {
 //      delay(10);
 //  }
 
-  for( int ring2=0; ring2<256; ring2++ ) {
+  for( int ring2=0; ring2<256; ring2+=2 ) {
       int r = ring2;  // Redness starts at zero and goes up to full
       int b = 0;  // Blue starts at full and goes down to zero
       int g = ring2;              // No green needed to go from blue to red
 
       for(int x = 1; x < 13; x++){
-          leds.setPixelColor(x, leds.Color(255-r, 255-g, b)); // Yellow Fade-in
+          leds.setPixelColor(x, leds.Color(255-r, 255-g, b)); 
       }
       
       leds.show();
-      delay(10);
+      delay(1);
 
       for(int x = 13; x < 35; x++){
           leds.setPixelColor(x, leds.Color(r, g/1.54, b)); // Yellow Fade-in
       }
       
       leds.show();
-      delay(10);
+      delay(1);
   }
 
-  for( int ring3=0; ring3<256; ring3++ ) {
+  for( int ring3=0; ring3<256; ring3+=2 ) {
       int r = ring3;  // Redness starts at zero and goes up to full
       int b = 0;  // Blue starts at full and goes down to zero
       int g = ring3;              // No green needed to go from blue to red
@@ -148,62 +153,62 @@ if (millis() - previousMillis < interval) {
       }
       
       leds.show();
-      delay(10); 
+      delay(1);
       
       for(int x = 35; x < 67; x++){
           leds.setPixelColor(x, leds.Color(r, 0, b)); // Yellow Fade-in
       }
       
       leds.show();
-      delay(10);
+      delay(1);
   }
 
-  for( int ring4=0; ring4<256; ring4++ ) {
+  for( int ring4=0; ring4<256; ring4+=2 ) {
       for(int x = 35; x < 67; x++){
           leds.setPixelColor(x, leds.Color(255-ring4, 0, 0)); // Yellow Fade-in
       }
       
       leds.show();
-      delay(10);
+      delay(1);
 
       for(int x = 67; x < 109; x++){
           leds.setPixelColor(x, leds.Color(0, ring4, ring4)); // Yellow Fade-in
       }
       
       leds.show();
-      delay(10);
+      delay(1);
   }
 
-  for( int ring5=0; ring5<256; ring5++ ) {
+  for( int ring5=0; ring5<256; ring5+=2 ) {
       for(int x = 67; x < 109; x++){
           leds.setPixelColor(x, leds.Color(0, 255-ring5, 255-ring5)); // Yellow Fade-in
       }
       
       leds.show();
-      delay(10);
+      delay(1);
 
       for(int x = 109; x < 161; x++){
           leds.setPixelColor(x, leds.Color(ring5, 0, ring5)); // Yellow Fade-in
       }
       
       leds.show();
-      delay(10);
+      delay(1);
   }
 
-  for( int fin=0; fin<256; fin++ ) {
+  for( int fin=0; fin<256; fin+=2 ) {
       for(int x = 109; x < 161; x++){
           leds.setPixelColor(x, leds.Color(255-fin, 0, 255-fin)); // Yellow Fade-in
       }
       
       leds.show();
-      delay(10);
+      delay(1);
 
       for(int x = 1; x < 13; x++){
           leds.setPixelColor(x, leds.Color(fin, fin, 0)); // Yellow Fade-in
       }
       
       leds.show();
-      delay(10);
+      delay(1);
   }
 }
 

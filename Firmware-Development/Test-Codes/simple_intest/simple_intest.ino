@@ -203,13 +203,62 @@ if (millis() - previousMillis < interval) {
       leds.show();
       delay(1);
 
-      for(int x = 1; x < 13; x++){
-          leds.setPixelColor(x, leds.Color(fin, fin, 0)); // Yellow Fade-in
+      for(int x = 67; x < 109; x++){
+          leds.setPixelColor(x, leds.Color(0, fin, fin)); // Yellow Fade-in
+      }
+
+      leds.show();
+      delay(1);
+  }
+
+  for( int ring6=0; ring6<256; ring6+=2 ) {
+      for(int x = 67; x < 109; x++){
+          leds.setPixelColor(x, leds.Color(0, 255-ring6, 255-ring6)); // Yellow Fade-in
+      }
+
+      leds.show();
+      delay(1);
+
+      for(int x = 35; x < 67; x++){
+          leds.setPixelColor(x, leds.Color(ring6, 0, 0)); // Yellow Fade-in
       }
       
       leds.show();
       delay(1);
   }
+
+  for( int ring7=0; ring7<256; ring7+=2 ) {
+      for(int x = 35; x < 67; x++){
+          leds.setPixelColor(x, leds.Color(255-ring7, 0, 0)); // Yellow Fade-in
+      }
+
+      leds.show();
+      delay(1);
+
+      for(int x = 13; x < 35; x++){
+          leds.setPixelColor(x, leds.Color(ring7, ring7/1.54, 0)); // Yellow Fade-in
+      }
+      
+      leds.show();
+      delay(1);
+  }
+
+  for( int ring8=0; ring8<256; ring8+=2 ) {
+      for(int x = 13; x < 35; x++){
+          leds.setPixelColor(x, leds.Color(255-ring8, 165-(ring8/1.54), 0)); // Yellow Fade-in
+      }
+
+      leds.show();
+      delay(1);
+
+      for(int x = 1; x < 13; x++){
+          leds.setPixelColor(x, leds.Color(ring8, ring8, 0)); // Yellow Fade-in
+      }
+      
+      leds.show();
+      delay(1);
+  }
+
 }
 
 else {

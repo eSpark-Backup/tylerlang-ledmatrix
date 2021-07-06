@@ -32,7 +32,7 @@ tinyNeoPixel leds = tinyNeoPixel(NUMPIXELS, PIN, NEO_GRB, pixels);
 //tinyNeoPixel leds = tinyNeoPixel(NUMPIXELS, PIN2, NEO_GRB, pixels);
 
 unsigned long previousMillis = 0;
-const long interval = 40000;
+const long interval = 1800000;
 bool flag = false;
 
 void setup() {
@@ -46,7 +46,7 @@ void setup() {
   
   pinMode(PIN, OUTPUT);
 
-  leds.setBrightness(50);
+  leds.setBrightness(30);
 //  pinMode(CPIN, OUTPUT);
 
 
@@ -67,7 +67,7 @@ void loop() {
 
 
 
-while (millis() - previousMillis < 5000) {
+while (millis() - previousMillis < 2500) {
   for(int x = 0; x < 256; x+=2){
     leds.setPixelColor(0, leds.Color(x, 0, 0)); // Yellow Fade-in
     leds.show();
